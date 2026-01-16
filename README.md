@@ -2,6 +2,6 @@
 
 Name: AjayKumarReddy
 
-favorite Actor: Pawala
+favorite Actor: Megastar Chiranjeevi
 
 
